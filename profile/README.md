@@ -1,3 +1,3 @@
 # AWS Infrastructure
 
-GitHub's org hello world!
+GitHub's org **public** hello world!
